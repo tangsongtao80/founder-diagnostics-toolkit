@@ -1,0 +1,12 @@
+{
+  "name": "founder-diagnostics-toolkit",
+  "version": "1.0.0",
+  "description": "13个AI诊断Skill，来自《精益创业》和《创新者的窘境》，帮创始人系统性地诊断和解决经营问题",
+  "author": "经营兵器库",
+  "license": "MIT",
+  "keywords": ["skill", "diagnostics", "startup", "lean-startup", "innovators-dilemma", "founder", "business"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/你的用户名/founder-diagnostics-toolkit"
+  }
+}
