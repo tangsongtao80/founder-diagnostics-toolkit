@@ -41,6 +41,16 @@ npx skills add https://github.com/tangsongtao80/founder-diagnostics-toolkit
 | Performance Oversupply | `/performance-oversupply` | 判断竞争基础是否已经转移 |
 | Disruption Strategy | `/disruption-strategy` | 基于五大原则制定颠覆应对策略 |
 
+### 《极简增长》— 5 个聚焦增长诊断 Skill
+
+| Skill | 斜杠命令 | 一句话用途 |
+|:---|:---|:---|
+| Core Four Questions | `/growth-core-four-questions` | 四大灵魂追问诊断增长方向 |
+| Needle-Point Focus | `/needle-point-focus` | 针尖领域——选细分赛道的诊断 |
+| Pressure Focus | `/pressure-focus` | 压强原则——资源集中度诊断 |
+| Hidden Assets | `/hidden-assets` | 挖掘你没有充分利用的隐性资产 |
+| First Principles Growth | `/first-principles-growth` | 用第一性原理推翻隐含假设 |
+
 ## 使用示例
 
 ### 场景 1：增长停滞，找根因
@@ -88,8 +98,9 @@ npx skills add https://github.com/tangsongtao80/founder-diagnostics-toolkit
 |:---|:---|:---|
 | 《精益创业》(The Lean Startup) | 埃里克·莱斯 | 8 |
 | 《创新者的窘境》(The Innovator's Dilemma) | 克莱顿·克里斯坦森 | 5 |
+| 《极简增长》 | 彭志强 | 5 |
 
-持续更新中。下一批计划：《复盘》《极简增长》《ROE预算管理》。
+持续更新中。下一批计划：《复盘》《ROE预算管理》《段永平问答录》。
 
 ## 关注更多
 
