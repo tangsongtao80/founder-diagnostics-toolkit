@@ -51,6 +51,15 @@ npx skills add https://github.com/tangsongtao80/founder-diagnostics-toolkit
 | Hidden Assets | `/hidden-assets` | 挖掘你没有充分利用的隐性资产 |
 | First Principles Growth | `/first-principles-growth` | 用第一性原理推翻隐含假设 |
 
+### 《ROE预算管理》— 4 个财务经营诊断 Skill
+
+| Skill | 斜杠命令 | 一句话用途 |
+|:---|:---|:---|
+| ROE Diagnostic | `/roe-diagnostic` | 杜邦分析拆解 ROE，定位短板因子 |
+| Three Compare Five Look | `/three-compare-five-look` | 三比五看——系统性经营数据分析 |
+| Cashflow Triangle | `/cashflow-triangle` | 经营/投资/融资三现金流健康诊断 |
+| ROE Budget Target | `/roe-budget-target` | 以 ROE 为原点倒推预算目标 |
+
 ## 使用示例
 
 ### 场景 1：增长停滞，找根因
@@ -99,8 +108,9 @@ npx skills add https://github.com/tangsongtao80/founder-diagnostics-toolkit
 | 《精益创业》(The Lean Startup) | 埃里克·莱斯 | 8 |
 | 《创新者的窘境》(The Innovator's Dilemma) | 克莱顿·克里斯坦森 | 5 |
 | 《极简增长》 | 彭志强 | 5 |
+| 《ROE 预算管理》 | 付小平 | 4 |
 
-持续更新中。下一批计划：《复盘》《ROE预算管理》《段永平问答录》。
+持续更新中。下一批计划：《复盘》《段永平问答录》。
 
 ## 关注更多
 
