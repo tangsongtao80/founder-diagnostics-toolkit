@@ -11,7 +11,7 @@
 ## 快速安装
 
 ```bash
-npx skills add https://github.com/你的用户名/founder-diagnostics-toolkit
+npx skills add https://github.com/tangsongtao80/founder-diagnostics-toolkit
 ```
 
 安装后在 OpenClaw / Claude Code 中输入斜杠命令即可调用。
