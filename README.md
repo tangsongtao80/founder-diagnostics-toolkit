@@ -60,6 +60,16 @@ npx skills add https://github.com/tangsongtao80/founder-diagnostics-toolkit
 | Cashflow Triangle | `/cashflow-triangle` | 经营/投资/融资三现金流健康诊断 |
 | ROE Budget Target | `/roe-budget-target` | 以 ROE 为原点倒推预算目标 |
 
+### 《复盘》— 5 个复盘诊断 Skill
+
+| Skill | 斜杠命令 | 一句话用途 |
+|:---|:---|:---|
+| Fupan Five Steps | `/fupan-five-steps` | 联想五步复盘——结构化的项目/决策复盘 |
+| Goal Alignment | `/goal-alignment` | 目的/目标/策略/指标四层一致性诊断 |
+| Dual Dimension Review | `/dual-dimension-review` | 逻辑维度（数字）+ 行动维度（动作）双线复盘 |
+| Feedback Analysis | `/feedback-analysis` | 德鲁克反馈分析法——发现真正长处和盲区 |
+| Five Reflections | `/five-reflections` | 五反机制——让复盘走完深度学习的五层循环 |
+
 ## 使用示例
 
 ### 场景 1：增长停滞，找根因
@@ -108,9 +118,10 @@ npx skills add https://github.com/tangsongtao80/founder-diagnostics-toolkit
 | 《精益创业》(The Lean Startup) | 埃里克·莱斯 | 8 |
 | 《创新者的窘境》(The Innovator's Dilemma) | 克莱顿·克里斯坦森 | 5 |
 | 《极简增长》 | 彭志强 | 5 |
+| 《复盘》 | 沈磊 | 5 |
 | 《ROE 预算管理》 | 付小平 | 4 |
 
-持续更新中。下一批计划：《复盘》《段永平问答录》。
+持续更新中。每周拆一本书。
 
 ## 关注更多
 
